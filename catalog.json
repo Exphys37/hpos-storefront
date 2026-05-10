@@ -1,0 +1,41 @@
+{
+  "generated_at": "2026-05-10T12:17:05.439687",
+  "source": "HP-OS local product catalog",
+  "count": 1,
+  "products": [
+    {
+      "product_name": "Fitness Facility Tracker",
+      "project_name": "fitness_facility_tracker",
+      "category": "facility_operations",
+      "version": "0.1.2",
+      "description": "A local-first facility check-in, check-out, session tracking, reporting, and CSV export application.",
+      "deployment_model": "local_first_internal_web_app",
+      "release_channel": "local_first",
+      "download_available": true,
+      "download_file": "fitness_facility_tracker.zip",
+      "demo_available": false,
+      "demo_type": "local_runtime",
+      "ai_required": false,
+      "internet_required": false,
+      "cloud_required": false,
+      "licensing": {
+        "required": true,
+        "type": "local_key",
+        "enforcement": "packaged_activation",
+        "activation_model": "local_first_license_file",
+        "machine_binding": true,
+        "status": "license_required"
+      },
+      "latest_release": {
+        "version": "0.1.2",
+        "released_at": "2026-05-09T20:43:48.220491",
+        "status": "ready",
+        "notes": "Automated release via HP-OS"
+      },
+      "quality_score": 100,
+      "release_decision": "release",
+      "export_type": "secured_bundle",
+      "export_fingerprint": "81086cc7f5c77815359ad79139f3a2f5baf3d5ecc5cdf39b6931f0b94bdb8344"
+    }
+  ]
+}

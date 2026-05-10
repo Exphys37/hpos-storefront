@@ -1,0 +1,9 @@
+{
+  "exported_at": "2026-05-10T13:39:18.888798",
+  "source_catalog": "dist/storefront/catalog.json",
+  "bundle_path": "dist/storefront_bundle",
+  "products": 1,
+  "downloads_copied": [
+    "fitness_facility_tracker.zip"
+  ]
+}
